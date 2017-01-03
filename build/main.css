@@ -22113,7 +22113,8 @@ sub {
   }
   ion-nav > .ion-page {
     left: 304px;
-    padding-right: 304px;
+    right: 0;
+    width: auto;
   }
   ion-nav > .ion-page > ion-header {
     position: relative;
